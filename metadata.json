@@ -1,0 +1,7 @@
+{
+  "name": "CSKH GIA HÒA 6",
+  "description": "An advanced customer relationship management application for Honda GIA HÒA 6 motorcycle dealership, featuring AI-powered sales suggestions, customer management, and reporting capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
